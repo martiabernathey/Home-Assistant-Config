@@ -1,0 +1,36 @@
+Home Assistant Fix/upgrade/plan
+
+Automations based on
+
+If I'm in bed:
+	a: heat (climate) in living room should be off. 
+ 	b. Motion detection on in rest of the house, send alerts to phone
+	c: if it's bedtime, turn on fan. Maybe ask?
+
+
+ If I'm out of bed:
+	A: fan off.
+	B: climate in living room on. 
+	C: motion detection 
+
+Home status: if I'm home, mark me home, if I'm away mark me away. 
+
+If I'm home:
+
+	A. Temp set for comfort.
+	B. Motion detection off.
+
+	Presence in room:
+		A. Bedroom - If I'm 
+
+
+If battery is low on:
+	Martha iPhone
+	Martha Apple Watch
+	Marcele MinniePhone
+	Marcele Apple Watch
+
+
+For home assistant I want to basically have an on and off when in the house and not in the house and when not in the house I want the temperature to be basically whatever the ambient temp temperature is in the house no air-conditioning nothing but when I'm hard at well and also I wanna have the cameras off when I'm home do I really though directly
+===
+That's not until I don't like motion recorded motion events I only want emotion events recorded when I'm out of the house and alerts when I'm out the house ordering the night when I'm asleep when I'm in bed.
